@@ -12,6 +12,5 @@ This program was built in Visual Studio Code on a windows operating system to al
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [ctypes library docs](https://docs.python.org/3/library/ctypes.html)
 * [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
